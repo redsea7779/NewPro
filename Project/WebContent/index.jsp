@@ -5,8 +5,6 @@
 		<div align ="center">
 		
     <table>
-				<h2>홀리몰리둘리</h2>
-    	
     	
     	</tbody>
     
