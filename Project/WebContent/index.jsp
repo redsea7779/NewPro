@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!-- 페이지를 불러오기(include) 위해서는 두 가지 방법이 존재(정적 include, 동적 include)
@@ -70,3 +71,17 @@
 	</div>
 </body>
 </html>
+=======
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+
+		<div align ="center">
+		
+    <table>
+    	
+    	</tbody>
+    
+    </table>
+		</div>
+>>>>>>> refs/remotes/origin/moon
