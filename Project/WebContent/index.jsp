@@ -12,8 +12,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
+<meta charset="UTF-8">     
+<title>Insert title here</title>
+=======
 <meta charset="UTF-8">
 <title>내가 만든 홈페이지</title>
+>>>>>>> refs/remotes/origin/master
 </head>
 <body>
 	<!-- 화면 배치는 테이블로 하면 안되지만 빠른 구현을 위해 테이블로 하고 추후에 div로 교체 -->
@@ -70,4 +75,8 @@
 		</table>
 	</div>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> refs/remotes/origin/master
